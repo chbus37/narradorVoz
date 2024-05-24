@@ -52,3 +52,15 @@
     margin: 0 auto;
     text-align: center;
   }
+
+  .speech{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 3rem;
+  }
+
+  .speech button{
+    margin-top: 1rem;
+  }
